@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilalakram777
+- 👋 Hi, I’m @bilalakram
 - 👀 I’m interested in Artificial intelligence ,Data Science , Python
 - 🌱 I’m currently learning Generative Ai
   Reach me through email : bilalakram21022@gmail.com
